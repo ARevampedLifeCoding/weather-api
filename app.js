@@ -34,7 +34,7 @@ const api = {
     weather_el.innerText = weather.weather[0].main;
   
     let hilow = document.querySelector('.hi-low');
-    hilow.innerText = `${Math.round(weather.main.temp_min)}°c / ${Math.round(weather.main.temp_max)}°c`;
+    hilow.innerText = `${Math.round(weather.main.temp_min)}°F / ${Math.round(weather.main.temp_max)}°F`;
   }
   
   function dateBuilder (d) {
