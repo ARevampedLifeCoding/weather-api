@@ -1,0 +1,37 @@
+* {
+    background-color: blue;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+.search-box {
+    font-size: 60px;
+}
+
+.city {
+    text-align: center;
+    font-size: 30px;
+}
+
+.temp {
+    text-align: center;
+    font-size: 100px;
+}
+
+.date {
+    text-align: center;
+    font-size: 28px;
+}
+
+.weather {
+    text-align: center;
+    font-size: 24px;
+}
+
+.hi-low {
+    text-align: center;
+    font-size: 24px;
+}
