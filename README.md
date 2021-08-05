@@ -7,3 +7,5 @@
 <img src="Weather-img.png" alt="weather">
 
 #### https://arevampedlifecoding.github.io/weather-api/
+
+<!--  -->
